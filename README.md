@@ -1,4 +1,4 @@
-# cramersMethod
+# cramersMethod (Метод Крамера)
 📖Educational project, where presented solution for systems of linear equations using Cramer's method(Cramer's rule).
 
 📖Навчальний проект, де представлено розв'язок СЛАР(системи лінійних алгебраїчних рівнянь) за допомогою метода Крамера
